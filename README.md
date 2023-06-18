@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Codermaster07](https://github.com/Codermaster07)
 
-- 📫 How to reach me **2222harshchouksey@gmail.com**
+- 📫 gmail-- **2222harshchouksey@gmail.com**
 
-- ⚡ Fun fact **Sometimes I called myself pythonista😅**
+- ⚡ **Sometimes I called myself pythonista😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
